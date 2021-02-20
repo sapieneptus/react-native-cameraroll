@@ -1,5 +1,5 @@
 {
-  "name": "@react-native-community/cameraroll",
+  "name": "@sapieneptus/cameraroll",
   "author": "Bartol Karuza <bartol.k@gmail.com>",
   "homepage": "https://github.com/react-native-community/react-native-cameraroll#readme",
   "version": "4.0.2-0",
@@ -125,6 +125,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-community/react-native-cameraroll.git"
+    "url": "https://github.com/sapieneptus/react-native-cameraroll.git"
   }
 }
